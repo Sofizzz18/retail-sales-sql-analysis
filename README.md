@@ -35,6 +35,6 @@
 
 ## 👨‍💻 Author
 
-**Sofizz**
+**Raja Rashid**
 
 If you found this project helpful, consider giving it a ⭐.
